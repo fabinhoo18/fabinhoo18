@@ -32,6 +32,7 @@
   contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fabioholiveira2@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff4f5e?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fabin.oo/)
 
 
 
