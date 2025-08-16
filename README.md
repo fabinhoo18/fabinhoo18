@@ -2,7 +2,7 @@
 
 <h1 align="center">Opa, eu sou o Fabio </h1>
 
-<p align="center">💻 estudante | games </p>
+<p align="center">💻 estudante </p>
 
 ---
 
