@@ -34,6 +34,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fabioholiveira2@gmail.com)
 
 
+
 ---
 
 <p align="center"> Obrigado por visitar meu perfil!</p>
